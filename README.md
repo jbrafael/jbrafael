@@ -3,11 +3,9 @@
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=jbrafael&label=Profile%20views&color=0e75b6&style=flat" alt="jbrafael" /> </p>
 
-<p align="left"> <a href="https: //github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jbrafael" alt="jbrafael" /></ a> </p>
-
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Conecte-se comigo:</h3 >
 <p align="left">
-<a href="https://linkedin.com/in/jobson rafael de fraga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images /icons/Social/linked-in-alt.svg" alt="jobson rafael de fraga" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jobson rafael de fraga" target="blank"><img align="center" src="https://raw .githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jobson rafael de fraga" height="30" width="40" /></a>
 <a href="https://instagram.com/_s2rafael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="_s2rafael" height="30" width="40" /></a> </p>
 <
 
