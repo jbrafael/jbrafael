@@ -5,7 +5,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/jobsonrafaeldefraga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jobson rafael de fraga" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/jobson-rafael-de-fraga-b71203281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jobson rafael de fraga" height="30" width="40" /></a>
   <a href="https://instagram.com/_s2rafael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_s2rafael" height="30" width="40" /></a>
 </p>
 
