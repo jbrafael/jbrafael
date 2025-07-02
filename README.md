@@ -1,64 +1,59 @@
-<h1 align="center">👋 Hello, I'm Jobson Rafael!</h1>
-<h3 align="center">Web Developer and Technology Enthusiast</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d74e8&height=120&section=header"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jbrafael&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile view counter" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=0D74E8&center=true&vCenter=true&width=1000&lines=Hello,+World!+I+am+Jobson+Rafael.;Web+Developer+and+Tech+Enthusiast.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
----
+<div align="center">  
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=jbrafael&show_icons=true&hide_title=true&hide=contribs&include_all_commits=true&count_private=true&theme=tokyonight" alt="Jobson Rafael's Stats"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbrafael&layout=compact&langs_count=8&theme=tokyonight" alt="Jobson Rafael's Top Languages"/>
+</div>
 
-### 🌟 About Me
-- 💻 I'm passionate about solving problems through technology.
-- 📚 Currently, I’m a student of **Technology in Internet Systems** at IFPE.
-- 🚀 I have experience in web development, technical support, and computer networks.
-- 🌱 Always exploring new technologies and frameworks to enhance my skills.
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jbrafael&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 🚀 Skills and Technologies
+### 🛠️ My Toolbox:
 #### Programming Languages:
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-</p>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 
-#### Frameworks and Tools:
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-</p>
+#### Frameworks & Libraries:
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-#### Operating Systems:
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Windows_logo_-_2021.svg" alt="Windows" width="40" height="40" />
-</p>
+#### Tools & Platforms:
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows)
 
 ---
 
-### 📈 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jbrafael&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jbrafael&theme=radical" alt="Commit streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jbrafael&show_icons=true&theme=radical&layout=compact" alt="Top languages" />
-</p>
+### 🌟 Current Focus:
+- 📖 Deepening my knowledge in **React Native** and **Backend Development**.
+- 🏗️ Building projects like **AniPlay** (Anime Streaming App) and **TAMUS** (Smart Health Scheduling System).
+- 💡 Exploring the world of **Machine Learning** and **Computer Vision**.
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/jobson-rafael-de-fraga-b71203281/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/_s2rafael" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+### 📊 Visitors:
+<div align="center">
+  <img src="https://profile-counter.glitch.me/{jbrafael}/count.svg" alt="Jobson Rafael's Profile Views"/>
+</div>
 
 ---
+
+### 🌐 Let's Connect:
+<p align="center">
+  <a href="https://www.linkedin.com/in/jobson-rafael-de-fraga-b71203281/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/_s2rafael" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://github.com/jbrafael" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d74e8&height=120&section=footer"/>
