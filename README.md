@@ -35,13 +35,6 @@
 
 ---
 
-### 🌟 Current Focus:
-- 📖 Deepening my knowledge in **React Native** and **Backend Development**.
-- 🏗️ Building projects like **AniPlay** (Anime Streaming App) and **TAMUS** (Smart Health Scheduling System).
-- 💡 Exploring the world of **Machine Learning** and **Computer Vision**.
-
----
-
 ### 📊 Visitors:
 <div align="center">
   <img src="https://profile-counter.glitch.me/{jbrafael}/count.svg" alt="Jobson Rafael's Profile Views"/>
