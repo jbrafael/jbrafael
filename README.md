@@ -1,10 +1,10 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d74e8&height=120&section=header" alt="Header" />
   
-  <h1>Hi there! I'm Jobson Rafael 👋</h1>
+  <h1>Hi there! I'm Jobson Rafael 🇧🇷 👋</h1>
   
-  <p><strong>Cloud Support Associate | DevOps Enthusiast | Automation Developer</strong></p>
-  <p>Building scalable solutions by bridging Cloud Computing, Process Automation, and Software Engineering.</p>
+  <p><strong>Cloud Support Associate | DevOps & Middleware Enthusiast | Automation Developer</strong></p>
+  <p>Based in Brazil | Bridging IT Operations, Middleware, and Cloud Infrastructure with Software Engineering.</p>
 
   <p>
     <a href="https://www.linkedin.com/in/jobson-rafael-b71203281/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,11 +17,42 @@
 
 ### 👨‍💻 About Me
 
-Technology professional focused on **Cloud Computing, Automation, and DevOps**. My background bridges solid software engineering experience with infrastructure operations, middleware maintenance, and observability to deliver resilient, high-performing systems.
+I am an IT professional with a solid software development background, currently working at the intersection of **Cloud Computing, Middleware, Automation, and DevOps**. 
 
-- ☁️ **Current Focus:** Cloud Architecture, DevOps Culture, Observability, and Automation with Python.
-- ⚙️ **Daily Toolkit:** Containers (Docker), CI/CD workflows, monitoring, and mission-critical system reliability.
-- 📚 **Goals:** AWS Certifications, Infrastructure as Code (IaC), and container orchestration.
+My core focus lies in building reliable systems, automating repetitive operational workflows, and ensuring high service availability across mission-critical environments.
+
+- 📍 **Location:** Brazil 🇧🇷
+- 🎯 **Core Focus:** Cloud Infrastructure, Middleware Management, Reliability Engineering, and Python-driven Automation.
+- 🛠️ **Operational Mindset:** Proactive troubleshooting, system resilience, and cross-functional collaboration between Dev and Ops.
+
+---
+
+### 🛤️ Current Journey
+
+My trajectory began in software development and transitioned through hands-on **IT Operations & NOC**, managing critical production incidents, maintaining enterprise systems, and supporting daily operations. 
+
+Today, I leverage that real-world operational foundation to evolve into **Cloud, Middleware, and DevOps** engineering. This progression allows me to:
+- Understand systems from both sides of the coin: code creation and operational resilience.
+- Bridge development teams with infrastructure and middleware platforms.
+- Turn manual incident remediation and support tasks into automated, repeatable code.
+
+---
+
+### 🛡️ Operations, Reliability & Core Competencies
+
+- **Observability & Monitoring:** System health telemetry, performance metrics, log tracking, and alerting.
+- **Incident Response & Troubleshooting:** Root-cause analysis (RCA), critical issue triaging, and disaster recovery support.
+- **System Reliability:** Service continuity, high availability patterns, and SLA/SLO adherence.
+- **Middleware Administration:** Web servers, application runtimes, integration layers, and message brokers.
+
+---
+
+### 📚 Currently Learning
+
+- ☁️ **AWS:** Advanced architecture patterns and certifications (Cloud Practitioner & Solutions Architect)
+- 🏗️ **Infrastructure as Code (IaC):** Declarative infrastructure provisioning with **Terraform**
+- 🚢 **Container Orchestration:** Deploying and managing scalable workloads with **Kubernetes (K8s)**
+- 🔁 **CI/CD Pipelines:** Automated build, test, and release workflows with **GitHub Actions**
 
 ---
 
@@ -36,6 +67,7 @@ Technology professional focused on **Cloud Computing, Automation, and DevOps**. 
 
 **Languages & Backend**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -53,6 +85,7 @@ Technology professional focused on **Cloud Computing, Automation, and DevOps**. 
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jbrafael&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jbrafael&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbrafael&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
